@@ -2,7 +2,7 @@
   "name": "vishwarajanand-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ubuntu_on_web_demo.github.io/",
+  "homepage": "https://vishwarajanand.github.io/ubuntu_on_web_demo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
