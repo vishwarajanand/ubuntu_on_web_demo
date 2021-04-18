@@ -1,4 +1,4 @@
-# Ubuntu On Web Demo
+# [Ubuntu On Web Demo](https://github.com/vishwarajanand/ubuntu_on_web_demo/)
 This repository how we can build an entrypoint to another system powered by React.
 Disclaimer, I forked and copied from [https://vivek9patel.github.io/](https://vivek9patel.github.io/).
 
@@ -8,7 +8,7 @@ And upon checking the source and flow, I can foresee following issues while scal
 
 2. Ideally the system can be linked to a VM with some auth in front and only parts of the OS can be exposed, say terminal or file browser! It can then serve as a handy tool to connect across multiple VMs or PODs.
 
-# To run this on localhost
+## To run this on localhost
 
 - Make _.env_ file in root folder
 
