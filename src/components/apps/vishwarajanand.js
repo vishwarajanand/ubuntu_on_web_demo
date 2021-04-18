@@ -114,17 +114,17 @@ function About() {
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
                 <div>my name is <span className="font-bold">Vishwaraj Anand</span> ,</div>
-                <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Web Developer!</span></div>
+                <div className="font-normal ml-1">Vivek Patel is the <span className="text-pink-600 font-bold">Original Author!</span> of this project</div>
             </div>
             <div className=" my-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 left-0"></div>
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc">I'm a 3<sup>rd</sup> year <span className=" font-medium">computer Science student</span> pursuing my Btech degree from <a href="https://www.pdpu.ac.in/" rel="noreferrer" target="_blank">PDEU, Gandhinagar</a>.</li>
-                <li className=" mt-3 list-building"> I enjoy building awesome softwares that solve practical problems.</li>
-                <li className=" mt-3 list-time"> When I am not coding my next project, I like to spend my time reading books, playing minecraft or watching <a href="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A" target="_blank" rel="noreferrer"> tom scott's videos.</a></li>
-                <li className=" mt-3 list-star"> And I also have interest in Deep Learning & Computer Vision!</li>
+                <li className=" list-pc">He's <span className=" font-medium">a computer Science student</span> pursuing Btech degree from <a href="https://www.pdpu.ac.in/" rel="noreferrer" target="_blank">PDEU, Gandhinagar</a>.</li>
+                <li className=" mt-3 list-building"> Enjoys building awesome softwares that solve practical problems.</li>
+                <li className=" mt-3 list-time"> Likes to spend my time reading books, playing minecraft or watching <a href="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A" target="_blank" rel="noreferrer"> tom scott's videos.</a></li>
+                <li className=" mt-3 list-star"> Has an interest in Deep Learning & Computer Vision!</li>
             </ul>
         </>
     )

@@ -8,6 +8,8 @@ And upon checking the source and flow, I can foresee following issues while scal
 
 2. Ideally the system can be linked to a VM with some auth in front and only parts of the OS can be exposed, say terminal or file browser! It can then serve as a handy tool to connect across multiple VMs or PODs.
 
+Checkout the /demos in this repo!
+
 ## To run this on localhost
 
 - Make _.env_ file in root folder
